@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "lib": ["esnext", "DOM"],
+    "baseUrl": "./src",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "paths": {
+      "@message/*": ["./message/*"]
+    },
+    "resolveJsonModule": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": true
+  }
+}
