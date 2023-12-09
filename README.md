@@ -7,4 +7,4 @@ _description_
 
 ## License
 
-[MIT](./LICENSE) License © 2023-PRESENT [Ethan Morgan](https://github.com/antfu)
+[MIT](./LICENSE) License © 2023-PRESENT [Ethan Morgan](https://github.com/sixfourtwelve)
